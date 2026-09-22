@@ -43,14 +43,6 @@ Built a 16-module ERP system (Sales, Purchase, BoM, Manufacturing, Inventory, Au
 
 ### 📍 [GPS Finder](https://github.com/Sohanbhandari/GPS-finder-) — GPS Vehicle Tracking System
 A production-grade vehicle tracking system with a **Flutter** mobile client (login, live tracking UI, Google Maps) backed by a **FastAPI + PostgreSQL + MQTT** backend. Features server-side authorization boundaries, an out-of-order telemetry engine with stale-packet protection, dynamic online/offline vehicle status, and keyset-paginated location history — fully containerized with Docker Compose.
-
----
-
-## 📊 GitHub Stats
-
-![Sohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sohanbhandari&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohanbhandari&layout=compact)
-
 ---
 
 📍 Bangalore, Karnataka
