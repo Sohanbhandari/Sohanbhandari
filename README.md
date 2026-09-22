@@ -50,4 +50,4 @@ Built a 16-module ERP system (Sales, Purchase, BoM, Manufacturing, Inventory, Au
 
 ---
 
-📍 Hubballi, Karnataka
+📍 Bangalore, Karnataka
